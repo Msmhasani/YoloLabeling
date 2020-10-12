@@ -46,4 +46,5 @@ DISTFILES += \
 
 
 INCLUDEPATH += "D:/OPENCV/OPCV_440"
+
 LIBS += "D:/OPENCV/OPCV_440/opencv_world440d.lib"
